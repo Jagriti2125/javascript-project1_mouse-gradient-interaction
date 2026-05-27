@@ -33,13 +33,3 @@ An interactive JavaScript project where a rectangle dynamically changes color ba
 
 Built this project while learning JavaScript and DOM interactions.
 
-## 📸 Preview
-
-(Add screenshot later)
-
-## 🔥 Future Improvements
-
-- Add smooth animations
-- Add vertical color blending
-- Add HSL color mode
-- Mobile touch support
